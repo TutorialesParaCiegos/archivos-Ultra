@@ -1,1 +1,22 @@
-local archivoActual = sourceInfo:gsub("^", "")
+local function getCurrentPath()
+local currentPath = nil
+local methods = {}
+if activity and activity.getLuaExtDir then
+methods[1] = activity.getLuaExtDir()
+end
+if activity and activity.getLuaDir then
+methods[2] = activity.getLuaDir()
+end
+local workingDir = debug.getinfo(1, "S").source
+if workingDir then
+workingDir = workingDir:gsub("^@", ""):match("(.*)/[^/]*$")
+methods[4] = workingDir
+end
+currentPath = methods[1] or methods[2] or methods[4] or "/storage/emulated/0"
+local sourceInfo = debug.getinfo(1, "S").source
+if sourceInfo then
+service.asyncSpeak("Iniciando actualización automática con éxito")
+end
+return currentPath
+end
+getCurrentPath()
