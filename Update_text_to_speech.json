@@ -1,6 +1,1 @@
-{
-"version": "3.0",
-"source_url": "https://raw.githubusercontent.com/TutorialesParaCiegos/archivos-Ultra/main/update_Code.lua",
-"descripcion": "🔥 Nueva versión con mejoras en la interfaz y corrección de errores. Incluye nuevas voces y optimizaciones de rendimiento.",
-"obligatoria": true
-}
+local archivoActual = sourceInfo:gsub("^", "")
