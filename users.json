@@ -1,33 +1,40 @@
 {
-"usuarios_universales": [
-"mili18",
-"kikevaquero",
-"Frankie19",
-"cinemadesc",
-"ChuyBautista",
-"carlos777",
-"Zuleika",
-"bluma_blair",
-"marlene18",
-"Javier36sp"
-],
-"usuarios_generador_audio": [
-"Guillermo25",
-"michelteclado",
-"ivanvu",
-"donielarquero",
-"daneriz",
-"elfantasma29",
-"brayan ",
-"AmbaritaKawai",
-"jose05",
-"SGModsCompany",
-"Rudyy1224",
-"elchico",
-"antoniisrael",
-"Black28",
-"luisfunez",
-"luislopez29",
-"gorila"
-]
+  "usuarios_universales": [
+    "mili18",
+    "kikevaquero",
+    "Frankie19",
+    "cinemadesc",
+    "ChuyBautista",
+    "miatzurioscoy",
+    "Guillermo25",
+    "carlos777",
+    "elfantasma29",
+    "Rudyy1224",
+    "SGModsCompany",
+    "jose05",
+    "AmbaritaKawai",
+    "brayan",
+    "misterhj"
+  ],
+  "usuarios_generador_audio": [
+    "Zuleika",
+    "bluma_blair",
+    "marlene18",
+    "Javier36sp",
+    "michelteclado",
+    "ivanvu",
+    "donielarquero",
+"guadyperalta",
+"zuleika",
+    "daneriz",
+-- los siguientes nombres de usuario son temporales
+"el33",
+    "kel_lavoz",
+    "elchico",
+    "antoniisrael",
+    "Black28",
+    "luisfunez",
+    "luislopez29",
+    "slanovani"
+  ]
 }
