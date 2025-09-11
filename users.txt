@@ -24,9 +24,9 @@ ivanvu
 donielarquero
 slanovani
 guadyperalta
+kel_lavoz
 daneriz
 temporales
-kel_lavoz
 el33
 elchico
 antoniisrael
@@ -35,4 +35,4 @@ luisfunez
 luislopez29
 gorila
 [usuarios_expresiones_acapela]
-kel\u005flavoz
+temporales
