@@ -14,7 +14,6 @@ jose05
 AmbaritaKawai
 brayan
 misterhj
-
 [usuarios_generador_audio]
 Zuleika
 bluma_blair
@@ -26,7 +25,7 @@ donielarquero
 guadyperalta
 daneriz
 temporales
-kel\u005flavoz
+kel_lavoz
 el33
 elchico
 antoniisrael
@@ -35,3 +34,5 @@ luisfunez
 luislopez29
 slanovani
 gorila
+[usuarios_expresiones_acapela]
+kel\u005flavoz
