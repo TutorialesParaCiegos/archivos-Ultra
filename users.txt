@@ -28,8 +28,8 @@ guadyperalta
 kel_lavoz
 daneriz
 temporales
-Blasrossi -- 11 de diciembre de 2025
-
+-- El siguiente usuario solo tiene acceso hasta el 11 de diciembre de 2025
+Blasrossi
 AldoCorrea
 el33
 elchico
